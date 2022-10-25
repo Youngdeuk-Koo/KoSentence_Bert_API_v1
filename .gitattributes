@@ -1,0 +1,2 @@
+MODEL/koo_sbert_model filter=lfs diff=lfs merge=lfs -text
+MODEL//koo_sbert_model filter=lfs diff=lfs merge=lfs -text
