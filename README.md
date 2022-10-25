@@ -6,7 +6,7 @@
 Query: 한 남자가 파스타를 먹는다.
 
 Top 5 most similar sentences in corpus:
-한 남자가 음식을 먹는다. (Score: 0.6800)
+한 남자가 음식을 먹는다. (Score: 0.6800) \
 한 남자가 빵 한 조각을 먹는다. (Score: 0.6735)
 한 남자가 말을 탄다. (Score: 0.1256)
 두 남자가 수레를 숲 솦으로 밀었다. (Score: 0.1077)
