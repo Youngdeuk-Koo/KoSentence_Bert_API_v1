@@ -23,7 +23,7 @@ Top 5 most similar sentences in corpus:
 한 여자가 바이올린을 연주한다. (Score: 0.2885) \
 치타 한 마리가 먹이 뒤에서 달리고 있다. (Score: 0.2278) \
 그 여자가 아이를 돌본다. (Score: 0.2018) \
-한 남자가 말을 탄다. (Score: 0.1397) \
+한 남자가 말을 탄다. (Score: 0.1397) 
 
 
 ======================
@@ -32,7 +32,7 @@ Top 5 most similar sentences in corpus:
 Query: 치타가 들판을 가로 질러 먹이를 쫓는다.
 
 Top 5 most similar sentences in corpus:
-치타 한 마리가 먹이 뒤에서 달리고 있다. (Score: 0.8141) \
+치타 한 마리가 먹이 뒤에서 달리고 있다. (Score: 0.8141) 
 두 남자가 수레를 숲 솦으로 밀었다. (Score: 0.3707) \
 원숭이 한 마리가 드럼을 연주한다. (Score: 0.1842) \
 한 남자가 말을 탄다. (Score: 0.1716) \
